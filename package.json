@@ -1,0 +1,12 @@
+{
+  "name": "merged-number-api",
+  "version": "1.0.0",
+  "description": "Merged API for Telegram username to number and number info",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {},
+  "author": "@Zyro_ooo"
+}
